@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "narme.github.io",
+  "Id": "8a65d015-a026-48be-a8b5-5b748f8d6cfd"
+}
